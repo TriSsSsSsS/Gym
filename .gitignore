@@ -1,0 +1,39 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtualenvs
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs / temp
+*.log
+*.tmp
+
+# Databases
+*.sqlite3
+*.db
+
+# Test / cache
+.pytest_cache/
+.mypy_cache/
+
+# Node (se mai presente)
+node_modules/
